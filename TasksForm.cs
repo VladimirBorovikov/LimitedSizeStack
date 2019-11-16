@@ -5,7 +5,7 @@ namespace TodoApplication
 {
     public class TasksForm : Form
     {
-        private ListModel<string> model;
+        private ListModel<string> model;        
         private ListBox TasksList;
         private Button buttonRemove;
         private Button buttonUndo;
